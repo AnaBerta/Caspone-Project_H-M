@@ -18,7 +18,7 @@ Este trabajo repositorio esta estructurado de la siguente manera:
   - Articles.ipynb* - estudio del dataset articles.csv
   - Customers.ipynb* - estudio del dataset customers.csv
   - Transactions.ipynb* - estudio del dataset transactions_train.csv 
-  - Relación.ipynb - estudio de las relaciones de los tres datasets anteriores
+  - Relacions.ipynb - estudio de las relaciones de los tres datasets anteriores
  
  *Al final de estos tres notebooks de estudio se extraen unos nuevos datasets que son los que se aplicaran al modelo: articles_model.csv, customers_model.csv y transactions_train_model.csv
  
