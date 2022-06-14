@@ -13,7 +13,7 @@ Este trabajo repositorio esta estructurado de la siguente manera:
   - customers_sample.csv - datos para cada customer_id en el conjunto de datos
   - sample_submission_sample.csv - archivo de envío de muestra en el formato correcto de la solución
   - transactions_train_sample.csv - los datos de entrenamiento, que consisten en las compras de cada cliente para cada fecha, así como información adicional. Las filas duplicadas corresponden a compras múltiples del mismo artículo.
-  - 
+
 **2. Estudio de los datos**
   - Articles.ipynb* - estudio del dataset articles.csv
   - Customers.ipynb* - estudio del dataset customers.csv
