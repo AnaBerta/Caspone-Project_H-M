@@ -23,7 +23,7 @@ Este trabajo repositorio esta estructurado de la siguente manera:
  *Al final de estos tres notebooks de estudio se extraen unos nuevos datasets que son los que se aplicaran al modelo: articles_model.csv, customers_model.csv y transactions_train_model.csv
  
 **3. Modelo**
-  - Modelo H&Recomendation.ipynb - utilizaremos el sistema de recomendación Tensorflow (tfrs): Retrieval models para recomendaciones de productos de H&M.
+  - Model_H&M_Recomendation.ipynb - utilizaremos el sistema de recomendación Tensorflow (tfrs): Retrieval models para recomendaciones de productos de H&M.
 
 La documentación de este proyecto se encuentra a lo largo de los notebooks tanto en la carpeta de "Estudio de los datos" como en la carpeta del "Modelo". 
 
