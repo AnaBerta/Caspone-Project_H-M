@@ -4,7 +4,7 @@
 
 En este repositorio se puede encontrar el trabajo del Posgrado de Data Science y Maching Learning de Ester, Raquel y Ana Berta.
 
-XXXX Objetivo del projecto
+El objetivo del proyecto es encontrar un modelo que recomiende productos de H&M en función de sus clientes. Es decir, dado un conjunto de observaciones usuario-artículo, proporcionar un ranking adecuado por cada usuario.
 
 Este trabajo repositorio esta estructurado de la siguente manera:
 1. **Datos** (debido a la gran volumetría de estos, los archivos no son completos sino que son samples)
