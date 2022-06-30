@@ -27,3 +27,4 @@ Este trabajo repositorio esta estructurado de la siguente manera:
 
 La documentación de este proyecto se encuentra a lo largo de los notebooks tanto en la carpeta de "Estudio de los datos" como en la carpeta del "Modelo". 
 
+### Documentación en GitHub Pages: https://esterigle.github.io/prova/
